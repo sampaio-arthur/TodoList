@@ -1,4 +1,4 @@
-package br.com.sampaioarthur.TodoList;
+package br.com.sampaioarthur.todolist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
